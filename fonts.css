@@ -1,0 +1,20 @@
+.text-style-2 {
+	font-family: HelveticaNeue;
+	font-size: 28px;
+	color: #37bfc9;
+	color: var(--tealish);
+}
+
+.text-style {
+	font-family: HelveticaNeue;
+	font-size: 18px;
+	font-weight: 500;
+	color: #9c9c9c;
+}
+
+.text-style-3 {
+	font-family: HelveticaNeue;
+	font-size: 18px;
+	color: #4a4a4a;
+	color: var(--greyish-brown);
+}
